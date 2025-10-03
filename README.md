@@ -6,14 +6,14 @@
   
 </div>
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - São José (1ª fase)  
 Atualmente aprendendo **Java**  
 Experiência com **Linux** e administração de servidores simples  
 Já configurei e hospedei servidores de **Minecraft** via Ubuntu Server e acesso SSH (incluindo port forwarding WAN)  
 
-## 💻 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -33,7 +33,7 @@ Já configurei e hospedei servidores de **Minecraft** via Ubuntu Server e acesso
 - 🌐 Servidores simples (configuração e hosteamento)  
 - ⚙️ Gerenciamento de servidores
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
