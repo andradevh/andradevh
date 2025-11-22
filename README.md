@@ -28,7 +28,7 @@ Já configurei e hospedei servidores de **Minecraft** via Ubuntu Server e acesso
 - **Servidores Linux** - Configuração e administração
 
 ###  Experiências
-- 🎮 Configuração e hospedagem de servidor Minecraft
+- 🎮 Configuração e hospedagem de servidor de jogos
 - 🐧 Linux (Ubuntu Server, configuração básica de rede e serviços)  
 - 🌐 Servidores simples (configuração e hosteamento)  
 - ⚙️ Gerenciamento de servidores
@@ -62,6 +62,6 @@ Já configurei e hospedei servidores de **Minecraft** via Ubuntu Server e acesso
 
 <div align="center">
   
-  *"Sou um expectador assistindo o melhor filme do mundo, e não pretendo sair dessa sala de cinema tão cedo."*
+  *"Sou um espectador assistindo o melhor filme do mundo, e não pretendo sair dessa sala de cinema tão cedo."*
 
 </div>
