@@ -39,7 +39,7 @@ Atualmente, atuo como pesquisador/desenvolvedor no projeto institucional:
 
 **O que fazemos:** Desenvolvemos acionadores de mouse acessíveis de baixo custo (com e sem fio) para pessoas com deficiência, integrando modelagem/impressão 3D e microcontroladores.
 
-**Minha contribuição:** Atuação na lógica de hardware/software livre, utilizando **MicroPython** e **C/C++ (Arduino)** para programação dos dispositivos (como ESP32), arquitetura de sistemas microcontrolados e documentação em repositórios abertos.
+**Minha contribuição:** Focado no estudo e desenvolvimento da lógica de hardware/software livre, utilizando **MicroPython** e **C/C++ (Arduino)** para a futura programação e prototipagem dos dispositivos (como ESP32), além da arquitetura de sistemas microcontrolados e documentação em repositórios abertos
 
 **Keywords:** Comunicação Aumentativa e Alternativa (CAA), IoT, Tecnologia Assistiva, Open Source.
 
