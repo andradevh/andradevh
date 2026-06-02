@@ -9,7 +9,9 @@
 ## Sobre mim
 
 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSC - Campus São José (2ª fase).  
+
 Focado em **Redes de computadores**, **Desenvolvimento Web (Front-end)** e consolidação em Programação Orientada a Objetos com **Java**.
+
 Entusiasta do ecossistema **Open Source** e de **Tecnologias Assistivas**.
 
 ## Tecnologias & Ferramentas
