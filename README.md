@@ -1,4 +1,4 @@
-# Olá, eu sou Victor Hugo. 🐧
+# Olá, eu sou Victor Hugo 🐧
 
 ## Sobre mim
 
@@ -26,7 +26,7 @@ Atualmente estou focado em programação de microcontroladores usando C e MicroP
 
 ---
 
-### 🔬 Pesquisa & Inovação (Destaque)
+### Pesquisa & Inovação
 Atualmente, atuo como pesquisador/desenvolvedor no projeto institucional:
 **"Acionando a Inclusão: desenvolvimento de tecnologia assistiva para a escola"**
 
