@@ -37,27 +37,13 @@ Atualmente, atuo como pesquisador/desenvolvedor no projeto institucional:
 **Keywords:** Comunicação Aumentativa e Alternativa (CAA), IoT, Tecnologia Assistiva, Open Source.
 
 ---
-## GitHub Stats
-
-<div align="center">
-  
-  <a href="https://github.com/andradevh">
-    <img src="https://streak-stats.demolab.com/?user=andradevh&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak" />
-  </a>
-
-</div>
-
-## Como me encontrar
-
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrade-vh/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrade.vh18@gmail.com)
 
 </div>
-
 ---
-
 <div align="center">
   
   *"Sou um espectador assistindo o melhor filme do mundo, e não pretendo sair dessa sala de cinema tão cedo."*
